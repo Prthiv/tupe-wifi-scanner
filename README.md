@@ -77,4 +77,4 @@
 This tool is for educational purposes only. Use responsibly.
 
 ## Contact
-For questions or contributions, contact **Your Name** on [GitHub](https://github.com/Prthiv).
+For questions or contributions, contact on [GitHub](https://github.com/Prthiv).
